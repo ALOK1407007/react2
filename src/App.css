@@ -1,0 +1,23 @@
+#abc {
+  background-color: yellow;
+  height:100vh;
+  width:100vh;
+}
+.menu-bar{
+     background: rgb(0,100,0);
+     text-align:center;
+}
+.menu-bar ul{
+     display:inline-flex;
+     list-style: none;
+     color:#000;
+}
+.menu-bar ul li{
+     width:50px;
+     margin:10px;
+     padding:1px;
+}
+.menu-bar ul li a{
+     text-decoration: dotted;
+     color:rgb(190, 15, 15);
+}
